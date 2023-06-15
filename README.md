@@ -8,77 +8,7 @@
 
 </div>
 
-<div align="center" width="60%" height="auto">
-  <br>
-    <!-- <img src="https://res.cloudinary.com/itswadesh/image/upload/v1678600224/litekart/free_for_developers_1.png"> -->
-</div>
-<!-- <div align="center">
-  <br>
-    <img width="400" src=".github/svelte-commerce.gif" >
-    <img width="400" src=".github/svelte-commerce-demo.gif" hspace="5">
-</div> -->
-
-<!-- <br>
-<p align="center">
-<img height="400" src=".github/home-page-mobile.jpg" hspace="10">
-<img height="400" src=".github/catalog-listing-mobile.jpg" hspace="10">
-<img height="400" src=".github/product-details-mobile.jpg" hspace="10">
-<p/>
-<br/> -->
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Made_With-Svelte-red.svg?style=for-the-badge&color=dc8a78&logoColor=FF3E00&labelColor=302D41&logo=svelte"><br/><br/>
-  <img src="https://img.shields.io/badge/Maintained%3F-Yes-blueviolet?style=for-the-badge&color=209fb5&labelColor=5c5f77">
-	<a href="https://github.com/curiousfuture/svelte-commerce/stargazers" target="_blank">
-		<img alt="Stargazers" src="https://img.shields.io/github/stars/curiousfuture/svelte-commerce?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41"></a>
-	<a href="https://github.com/curiousfuture/svelte-commerce/issues" target="_blank">
-		<img alt="Issues" src="https://img.shields.io/github/issues/curiousfuture/svelte-commerce?style=for-the-badge&logo=gitbook&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41"></a>
-  <a href="https://t.me/itswadesh" target="_blank">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-itswadesh-blue.svg?style=for-the-badge"></a>
-</p>
-
-<br/>
-
-<p align="center">
-Reach out to me with queries!
-</p>
-<br/>
-<br/>
-
 <div align="">
-
-<!-- ### Big Brands using `svelte-commerce`
-
-</div>
-<br/>
-<p align="center">
-  <a href="https://tesoro.pk/" target="_blank">
-    <img src="https://res.cloudinary.com/itswadesh/image/upload/v1682424690/tesoro.png?tr=w-auto,h-80,ar-3-4,cm-pad_resize&sharpen=true" height="64" alt="Tesoro">
-  </a>
-  <img src="assets/misc/transparent.png" height="1" width="15"/>
-  <a href="https://varnijewels.com/" target="_blank">
-    <img src="https://ik.imagekit.io/3n6cglxq6/img/varni-logo_1619291754__34835-qt10qx2uq90x.webp?tr=w-auto,h-80,ar-3-4,cm-pad_resize&sharpen=true" height="64" alt="Varni Jewels">
-  </a>
-  <img src="assets/misc/transparent.png" height="1" width="15"/>
-  <a href="https://lrnr.in/" target="_blank">
-    <img src="https://res.cloudinary.com/itswadesh/image/upload/v1682423814/logo-lrnr.png?tr=w-auto,h-80,ar-3-4,cm-pad_resize&sharpen=true" height="64" alt="LRNR">
-  </a>
-  <img src="assets/misc/transparent.png" height="1" width="15"/>
-  <a href="https://tablez.com/" target="_blank">
-    <img src="https://tablez.com/icon.png" height="64" alt="Tablez">
-  </a>
-  <img src="assets/misc/transparent.png" height="1" width="15"/>
-  <a href="https://b.zapvi.in/" target="_blank">
-    <img src="https://cdn.zapvi.in/img/Zapvi-Black-Logo-iKPQP43npcI2.svg?width=3&height=4&blur=25&aspect_ratio=3:4" height="64" alt="Misiki">
-  </a>
-  <img src="assets/misc/transparent.png" height="1" width="15"/>
-  <div>
-    <img src="https://res.cloudinary.com/itswadesh/image/upload/v1682424327/clicky_logo-97724356932.png?width=3&height=4&blur=25&aspect_ratio=3:4" height="64" alt="Clicky">
-  </div>
-
-</p>
-<br/>
-<br/> -->
 
 ## What is it?
 
