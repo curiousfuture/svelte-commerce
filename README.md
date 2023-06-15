@@ -29,48 +29,15 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Made_With-Svelte-red.svg?style=for-the-badge&color=dc8a78&logoColor=FF3E00&labelColor=302D41&logo=svelte"><br/><br/>
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-blueviolet?style=for-the-badge&color=209fb5&labelColor=5c5f77">
-	<a href="https://github.com/itswadesh/svelte-commerce/stargazers" target="_blank">
-		<img alt="Stargazers" src="https://img.shields.io/github/stars/itswadesh/svelte-commerce?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41"></a>
-	<a href="https://github.com/itswadesh/svelte-commerce/issues" target="_blank">
-		<img alt="Issues" src="https://img.shields.io/github/issues/itswadesh/svelte-commerce?style=for-the-badge&logo=gitbook&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41"></a>
+	<a href="https://github.com/curiousfuture/svelte-commerce/stargazers" target="_blank">
+		<img alt="Stargazers" src="https://img.shields.io/github/stars/curiousfuture/svelte-commerce?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41"></a>
+	<a href="https://github.com/curiousfuture/svelte-commerce/issues" target="_blank">
+		<img alt="Issues" src="https://img.shields.io/github/issues/curiousfuture/svelte-commerce?style=for-the-badge&logo=gitbook&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41"></a>
   <a href="https://t.me/itswadesh" target="_blank">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-itswadesh-blue.svg?style=for-the-badge"></a>
 </p>
 
 <br/>
-<p align="center">
-  <a href="https://github.com/itswadesh/svelte-commerce/discussions/new/choose" target="_blank">
-    <picture>
-      <source srcset="assets/social/macchiato_github.svg" width="64" height="64" alt="Github Logo" media="(prefers-color-scheme: dark)"/>
-      <source srcset="assets/social/latte_github.svg" width="64" height="64" alt="Github Logo" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-      <img src="assets/social/latte_github.svg" width="64" height="64" alt="Github Logo"/>
-    </picture>
-  </a>
-  <img src="assets/misc/transparent.png" height="1" width="5"/>
-  <a href="https://discord.gg/GgdAeccwDR" target="_blank">
-    <picture>
-      <source srcset="assets/social/macchiato_discord.svg" width="64" height="64" alt="Discord Logo" media="(prefers-color-scheme: dark)"/>
-      <source srcset="assets/social/latte_discord.svg" width="64" height="64" alt="Discord Logo" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-      <img src="assets/social/latte_discord.svg" width="64" height="64" alt="Discord Logo"/>
-    </picture>
-  </a>
-  <img src="assets/misc/transparent.png" height="1" width="5"/>
-  <a href="https://twitter.com/itswadesh" target="_blank">
-    <picture>
-      <source srcset="assets/social/macchiato_twitter.svg" width="64" height="64" alt="Twitter Logo" media="(prefers-color-scheme: dark)"/>
-      <source srcset="assets/social/latte_twitter.svg" width="64" height="64" alt="Twitter Logo" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-      <img src="assets/social/latte_twitter.svg" width="64" height="64" alt="Twitter Logo"/>
-    </picture>
-  </a>
-  <img src="assets/misc/transparent.png" height="1" width="5"/>
-  <a href="https://reddit.com/u/itswadesh" target="_blank">
-    <picture>
-      <source srcset="assets/social/macchiato_reddit.svg" width="64" height="64" alt="Reddit Logo" media="(prefers-color-scheme: dark)"/>
-      <source srcset="assets/social/latte_reddit.svg" width="64" height="64" alt="Reddit Logo" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-      <img src="assets/social/latte_reddit.svg" width="64" height="64" alt="Reddit Logo"/>
-    </picture>
-  </a>
-</p>
 
 <p align="center">
 Reach out to me with queries!
@@ -131,7 +98,7 @@ Reach out to me with queries!
 ## Get Started
 
 ```
-git clone https://github.com/itswadesh/svelte-commerce.git
+git clone https://github.com/curiousfuture/svelte-commerce.git
 cd svelte-commerce
 npm i
 npm run dev
@@ -157,7 +124,7 @@ This is used to define which service to use. Only 1 of the listed service can be
 
 Click on the button to directly deploy to Netlify or Vercel. Zero configuration required.
 
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/itswadesh/svelte-commerce" aria-label="Click to deploy into netlify">
+<a href="https://app.netlify.com/start/deploy?repository=https://github.com/curiousfuture/svelte-commerce" aria-label="Click to deploy into netlify">
 <img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to netlify">
 </a>
 
@@ -168,7 +135,7 @@ Click on the button to directly deploy to Netlify or Vercel. Zero configuration 
 We also support docker images, use the following command to pull the latest docker image and deploy it:
 
 ```sh
-docker run -d -p 3000:3000 ghcr.io/itswadesh/svelte-commerce:latest
+docker run -d -p 3000:3000 ghcr.io/curiousfuture/svelte-commerce:latest
 ```
 
 ## Contributing
